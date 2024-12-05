@@ -56,12 +56,4 @@ The dataset used in this project includes the following features:
 
 ---
 
-## Dependencies
 
-Ensure the following Python packages are installed:
-
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
