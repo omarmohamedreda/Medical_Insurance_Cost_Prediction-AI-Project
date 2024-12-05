@@ -9,11 +9,6 @@ This project predicts medical insurance costs using machine learning techniques.
 1. [Introduction](#introduction)
 2. [Dataset Description](#dataset-description)
 3. [Project Workflow](#project-workflow)
-4. [Dependencies](#dependencies)
-5. [How to Run](#how-to-run)
-6. [Results](#results)
-7. [Future Improvements](#future-improvements)
-8. [Contributors](#contributors)
 
 ---
 
@@ -55,64 +50,3 @@ The dataset used in this project includes the following features:
 
 ---
 
-## Dependencies
-
-Ensure the following Python packages are installed:
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scikit-learn`
-
-You can install these dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/medical-insurance-prediction.git
-   cd medical-insurance-prediction
-   ```
-2. Install the required dependencies.
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Project_11_Medical_Insurance_Cost_Prediction.ipynb
-   ```
-4. Follow the instructions within the notebook to execute each cell step-by-step.
-
----
-
-## Results
-
-The project demonstrated that [insert top-performing model here] provided the best predictions for medical insurance costs, achieving:
-- **RMSE**: [Value]
-- **R-squared**: [Value]
-
----
-
-## Future Improvements
-
-- Incorporate additional features like medical history and lifestyle factors for better predictions.
-- Experiment with advanced models like Gradient Boosting or Neural Networks.
-- Deploy the model as a web application for user-friendly predictions.
-
----
-
-## Contributors
-
-- **[Your Name]**  
-  Role: Data Analyst and Machine Learning Engineer  
-  Contact: [Your Email]
-
----
-
-## Acknowledgements
-
-This project was inspired by [dataset source, e.g., Kaggle/UCI repository]. Special thanks to [any mentors, if applicable].
-
----
